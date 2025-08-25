@@ -1,0 +1,12 @@
+[
+  { "name": "Cairo", "lat": 30.0444, "lon": 31.2357 },
+  { "name": "Alexandria", "lat": 31.2001, "lon": 29.9187 },
+  { "name": "Giza", "lat": 30.0131, "lon": 31.2089 },
+  { "name": "Luxor", "lat": 25.6872, "lon": 32.6396 },
+  { "name": "Aswan", "lat": 24.0889, "lon": 32.8998 },
+  { "name": "Port Said", "lat": 31.2653, "lon": 32.3019 },
+  { "name": "Suez", "lat": 29.9737, "lon": 32.5263 },
+  { "name": "Sharm El Sheikh", "lat": 27.9158, "lon": 34.3299 },
+  { "name": "Hurghada", "lat": 27.2579, "lon": 33.8116 },
+  { "name": "Minya", "lat": 28.1099, "lon": 30.7503 }
+]
